@@ -14,14 +14,31 @@ Snakes and Ladders is a board game where players roll dice to move their tokens 
 - Multiplayer support.
 - Randomized dice rolls and board layout.
 
-## Installation
+## Getting Started
 
-To play or contribute to this project, follow these steps:
+### Prerequisites
+
+- Unity 20xx.x or higher
+- (Add any other prerequisites here)
+
+### Installation
+
+To play the game on your local machine, follow these steps:
 
 1. Clone this repository.
 2. Open the project in Unity.
 3. Explore the code and assets in Unity Editor.
 4. Build and run the game.
+
+## How to Play
+
+- (Briefly describe how to play the game and any rules specific to your digital version.)
+
+## Deployment
+
+The game is also available for download on the following platforms:
+
+- Google Play Store: [Link to Google Play Store](#) (replace `#` with your actual Play Store link once it's published)
 
 ## Contributing
 
